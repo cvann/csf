@@ -30,6 +30,6 @@ print "Problem 3 solution follows:"
 import hw1_test
 print ((hw1_test.a and hw1_test.b) or (not hw1_test.c) and not (hw1_test.d or hw1_test.e or hw1_test.f))
 # ... write your code and comments here (and remove this line) ### 
-### Collaboration ###  
+### Collaboration  witha lot of help from Cody Swearingen and University of Washington.###  
 #List your collaborators here, as a comment (on a line starting with "#").# 
 # a lot of help from Cody Swearingen and University of Washington website suggesting use of a double or single loop.#
