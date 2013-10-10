@@ -1,0 +1,9 @@
+# Name: Brieanna Benson
+# Evergreen Login: benbri03
+#
+# 3/3
+#
+# Remember to save these as .py.
+# You should add comments and space out your code into chunks so it is more readable to other coders.
+# You were certainly efficient with the code though, I like that.
+# Just be careful of your order of operations next time, sometimes leaving out ()'s can be dangerous.
