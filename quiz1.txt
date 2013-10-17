@@ -1,2 +1,8 @@
 ### Graded by Bryan O'Connor
 ### Ocobry30
+
+
+import lab2 n
+
+n = hello world
+print n, "hello world"
