@@ -1,0 +1,14 @@
+#def main(): 
+#print "This program will compute nth Fibonacci" 
+#print "number where n is a value input by the user." 
+
+n = input("Enter the nth Fibonacci number: ") 
+start = n 
+tprev= 2 
+prev = 0 
+tprev = prev 
+
+for i in range(n+1): 
+    prev = start + tprev 
+
+print "The result is:", prev 
