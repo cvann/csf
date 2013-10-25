@@ -1,0 +1,50 @@
+Name: Choya Vann	
+Evergreen Login: vancho06
+Computer Science Foundations
+Programming as a Way of Life
+Fall 2013
+Homework 3 
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+At the end, you will turn in this file along with your modified
+dna_analysis.py program.
+
+
+Problem 1:
+
+##Header information entered.
+
+Problem 2:
+test-small GC-content: 0.3
+sample_1   GC-content: 0.43029262963
+sample_2   GC-content: 0.451051333333	
+Sample_3   GC-content: 0.646864112524
+sample_4   GC-content: 0.347852341166
+sample_5   GC-content: 0.263157894737
+sample_6   GC-content: 0.491518518519
+
+Problem 3:
+From test-small.fastq
+File "dna_analysis.py", line 40, in <module>
+linenum = linenum + 1
+NameError: name 'linenum' is not defined
+This also is the feedback printed in the sample files too.
+
+The same error appears for gc_count, NameError: name 'gc_count' is not defined
+
+Problem 4:
+GC-content: 0.3
+AT-content: 0.7
+
+
+
+Collaboration:
+TA-Hendrickson found an error in my script on problem four that prevented the correct percentage from loading properly.
+
+
+Reflection:
+
+This homework as interesting because of its subject matter (DNA) and the results. I understood the loops used here much better. I spent approximately 3 hours working on this homework, most of the time was due to the path for Python27 was missing from my enviornment in the windows setting. I also forgot to report that the workstation I was sitting at did load up. I checked the cables and restarted the machinge with no change in the system.
